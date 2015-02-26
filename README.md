@@ -18,9 +18,9 @@ Instructions to build are usually located within the readme files in the root fo
 
 Useful links:
 
-An outdated build guide is here: http://wenku.baidu.com/view/86c3bad749649b6648d74748.html
-Android build environment initializing: https://source.android.com/source/initializing.html
-Porting CyanogenMod: http://wiki.cyanogenmod.org/w/Doc:_porting_intro
-Making a ROM from source guide: http://forum.xda-developers.com/showthread.php?t=2754145
+	Outdated build guide: http://wenku.baidu.com/view/86c3bad749649b6648d74748.html
+	Android build environment initializing: https://source.android.com/source/initializing.html
+	Porting CyanogenMod: http://wiki.cyanogenmod.org/w/Doc:_porting_intro
+	Making a ROM from source guide: http://forum.xda-developers.com/showthread.php?t=2754145
 
 http://alldroidreviews.blogspot.com/
