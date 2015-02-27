@@ -8,6 +8,10 @@ kernel
 2. Add required cross compiler to PATH:
    $ export PATH=/YOUR_TOOLCHAIN_PATH/arm-eabi-4.6/bin:$PATH
    $ export CROSS_COMPILE=arm-eabi-
-3. Then use the following commands to build the kernel:
+
+3. Copy the entire source code to this folder: 
+   $ cd $home/P6000
+
+4. Then use the following commands to build the kernel:
    $ ./makeMtk k01q_e new k
 
