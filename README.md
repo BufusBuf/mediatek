@@ -23,4 +23,4 @@ Useful links:
 	Porting CyanogenMod: http://wiki.cyanogenmod.org/w/Doc:_porting_intro
 	Making a ROM from source guide: http://forum.xda-developers.com/showthread.php?t=2754145
 
-http://alldroidreviews.blogspot.com/
+http://www.alldroid.net/
